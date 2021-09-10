@@ -1,0 +1,7 @@
+Author :  Talha Kilic <mntalha>
+
+<September 9 2021>
+
+Purpose : There are many problem while using dataloader and it will be explained what are these and solutions.
+
+This repository is created to explain how to use dataloader effectively .
