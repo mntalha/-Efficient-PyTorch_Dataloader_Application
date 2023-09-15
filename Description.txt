@@ -4,4 +4,4 @@ Author :  Talha Kilic <mntalha>
 
 Purpose : There are many problem while using dataloader and it will be explained what are these and solutions.
 
-This repository is created to explain how to use dataloader effectively .
+This repository is created to explain how to use dataloader effectively . True
